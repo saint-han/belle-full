@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "List of food, combination and recipes to prepare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saint-han/belle-full.git"
+  },
+  "author": "Gbolahan Okerayi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saint-han/belle-full/issues"
+  },
+  "homepage": "https://github.com/saint-han/belle-full#readme",
+  "devDependencies": {
+    "webpack-bundle-tracker": "^0.3.0"
+  }
+}

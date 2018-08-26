@@ -1,0 +1,12 @@
+htmlcov/
+.coverage
+.coverage.*
+.cache
+db.sqlite3
+*.egg-info
+*.pyc
+__ pycache __/
+.DS_Store
+*.log
+local_settings.py
+.python-version
